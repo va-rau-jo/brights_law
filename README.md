@@ -1,4 +1,4 @@
-Bright’s Law by Reduction
+### Bright’s Law by Reduction
 
 ##### All possible permutations of 3 integers can be reduced to all possible permutations of 3 positive digits (numbers between 0-9 inclusive).
 
