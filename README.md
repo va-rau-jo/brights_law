@@ -1,8 +1,8 @@
-### Bright’s Law by Reduction
+## Bright’s Law by Reduction
 
-##### All possible permutations of 3 integers can be reduced to all possible permutations of 3 positive digits (numbers between 0-9 inclusive).
+#### All possible permutations of 3 integers can be reduced to all possible permutations of 3 positive digits (numbers between 0-9 inclusive).
 
-##### This starts us off with 1000 total permutations, begin reducing the number based on rules:
+#### This starts us off with 1000 total permutations, begin reducing the number based on rules:
 
 1. Contains at least one 0: 729
  
